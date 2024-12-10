@@ -5,6 +5,8 @@ Uncensored Translation of WhiteClothes is currently being Translated by me, ๆช่
 
 If you want more information about the Translation, check current Pull Requests by me.
 
+Thanks to your generosity and support, I have received Donations, so if you are satisfied with my Translations, consider Donating here: https://ko-fi.com/miyakut
+
 Steam Game is here:
 
 https://store.steampowered.com/app/1495940/_/
