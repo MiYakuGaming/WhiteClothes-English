@@ -1,12 +1,38 @@
 # **WhiteClothes Uncensored English Translation Hack**
-![header_japanese](https://github.com/user-attachments/assets/c646a293-1626-4700-a6d8-0f4ea5fc095d)
-# **Summary of the Game:**
-Humans have gone extinct and the world is full of cute Kemono or Furry characters.    
-After the introduction's calamity, Lux, the Chairman of the Cult of Light, orders Sister to assemble the best members to fight against the Demon King.  
-You play as Milne, who lives in Relaxed Village and goes on a quest to join the fight against the Demon King.  
-Be prepared for plot twists and more unexpected turns of events.  
-Find out more by playing the game, I don't want to ruin it for you!  
-If you are a fan of cute Kemono or Furry Female heavy fan service with average to large breasts and even chubby to fat women, this is your game!  
+![header_japanese](https://github.com/user-attachments/assets/c646a293-1626-4700-a6d8-0f4ea5fc095d)  
+# Directly taken from the Japanese Steam Page and Translated to English
+**About This Game**  
+Welcome to the World of WhiteClothes!  
+This game's world consists solely of Kemono characters.  
+All main characters, NPCs in town—everyone is a cute Kemono!  
+Humans have gone extinct.  
+Join your friends and tackle dungeons together, defeating the formidable enemies that await you.  
+A blood-pumping, heart-racing command-based RPG!  
+
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1495940/extras/hero_battle_wait.gif?t=1685458995)![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1495940/extras/mag_battle_wait.gif?t=1685458995)
+
+**Story**  
+The protagonist, Milne, was brainwashed by her older sister and had her younger sibling kidnapped.  
+She embarks on an adventure to defeat the Demon King.  
+Characters with unique personalities engage in lively dialogue—whether during story events or combat!  
+The tone is light-hearted with a touch of dark humor; it’s not overly serious.  
+
+**Combat**  
+Fight sequences are dynamic, fast-paced, and filled with flashy effects.  
+Enemies aren’t pushovers—especially the weaker ones vanish before you can land a hit.  
+For boss battles, ensure your team has proper gear and skill synergy.  
+It might feel overwhelming at first glance, but there’s always a solution.  
+
+**Dungeons**  
+Checkpoints are strategically placed so progress isn't lost.  
+Once past certain points, earlier sections become optional challenges.  
+If wiped out, you retain experience and enemy drops—only items from chests are lost.  
+Collect scattered "Star Candies" to enhance passive abilities.  
+You can tweak your party's formation as needed; weaker characters should stay in the back-line.  
+
+**First Version Details**  
+This initial release lets players progress halfway through the story. Character levels cap at 50, and game-play clocks in around 30–40 hours.  
+Remaining content will be released via updates.  
 
 # **Translation**
 WhiteClothes is created and developed by MokomuGame, and the developer is aware and supportive of this Translation.  
