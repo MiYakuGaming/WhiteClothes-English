@@ -47,6 +47,10 @@ WhiteClothes is only available on Windows and supports Linux via Proton experime
 I use Linux Mint Cinnamon primarily for editing the main Translation file and testing in Windows, but currently, Games built with IL2CPP are not supported on Linux nor will it work.  
 When there is an update that allows IL2CPP to work on Linux, I will detail that in the future.  
 
+# **I don't know Japanese, how can I help with this Translation?**
+You easily help in many ways without knowing Japanese by following this link:  
+https://github.com/MiYakuGaming/WhiteClothes-English/wiki/How-to-Help
+
 # **Future Plans**
 Fine-tune text formatting and adjust font settings for English.  
 Begin using Stable Diffusion and possibly Gimp or something else to Translate images to maintain the original look and feel of the artistic intent, textures and icons where necessary.  
