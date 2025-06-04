@@ -1,5 +1,6 @@
 # **WhiteClothes Uncensored English Translation Hack**
 ![header_japanese](https://github.com/user-attachments/assets/c646a293-1626-4700-a6d8-0f4ea5fc095d)  
+# More about WhiteClothes on the [Wiki](https://github.com/MiYakuGaming/WhiteClothes-English/wiki)  
 # Directly taken from the Japanese Steam Page and Translated to English
 **About This Game**  
 Welcome to the World of WhiteClothes!  
