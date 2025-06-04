@@ -1,74 +1,72 @@
+いいえ=No
+いいえ。=No.
 この銀河のどこかの星...。\nここは動物たちが知性を持って暮らす世界...。=A star exists somewhere in this galaxy...\nthis is a world where animals live with intelligence...
 ﻿今日も彼らは平和に仲良くのんびりと\n過ごしていました。=Today they had another peaceful, friendly day.
 会長！ルクス会長！=Chairman!\nChairman Lux!
 えぇ、その通りです。=Eeh, it's just like you said.
-どうやらその名に恥じぬ強力な力を\n持っているようです。このままでは世は\n恐怖に支配されてしまうでしょう。=It seems to have a power befitting its name.\nIf left unchecked, the world would fall into chaos dominated by fear.
-光の教団の選りすぐりの者達を集めて\nください。そのもので討伐隊を結成し、\n先の洞窟を攻め入るのです。=Please gather your finest warriors from the Cult of Light.\nUse them to form a subjugation formation, then lead an assault on the cave ahead.
-我々のできる限りの事を尽くして、より強固で\n完璧な討伐隊を結成しましょう！そして邪悪\nなる魔の元たる魔王を殲滅するのです！=﻿We will do everything in our power to create a stronger, perfect extermination squad!\nAnd eliminate the Demon King, who is the root of evil magic!
-身を隠すには最適な場所かもしれませんね。\nそうとわかれば話は早いです。=Perhaps it may be a perfect place to hide oneself.\nOnce we know that, things will move quickly.
-なになに？どうしたの？=What's going on?\nWhat happened?
-えぇ...。=Eeh...
+奴はどうやら自分のことを、<color\=#D94742>魔王</color>と名乗っているらしいです。\n生意気な。そんな大層な肩書き。=He claims to be the <color=#D94742>Demon King</color>.\nArrogant.\nSuch an inflated title.
+いいえ。...確かに私も初め聞いた時は、\n名前負けしている身の程知らずの\n小童であるとタカをくくっていました。=No. Indeed, when I first heard of it\nI assumed I was an inexperienced and presumptuous individual whose reputation did not match their abilities.
+えぇ...。=Yeah...
+我々のできる限りの事を尽くして、より強固で\n完璧な討伐隊を結成しましょう！そして邪悪\nなる魔の元たる魔王を殲滅するのです！=﻿We will do everything in our power to create a stronger, perfect subjugation squad!\nAnd eliminate the Demon King, who is the root of evil magic!
 なので我々も畏怖の念を込めて\n<color\=#D94742>魔王</color>と呼称しましょう。=And because we are respectful and fearful\nlet's refer to it as the <color\=#D94742>Demon King</color>.
-しかしその認識は誤りでした。\nその被害がもう看過できないほど\nになっています。=But that perception was wrong.\nThe damage has now reached a point where it cannot be overlooked anymore.
-少し前に突如現れ、我が物顔で\n各地を荒らしまわっている不届き者...。=A bit before, it suddenly appeared mysteriously and was raising havoc everywhere before us...
+…。=...
+先ほど<color\=#D94742>まったり村</color>が襲撃されたとの\n報告がありました！！=Just now, <color\=#D94742>Relaxed Village</color> was attacked according to reports!!
+行方不明者多数、死者数不明...。\n甚大な被害です！=Missing persons in large numbers, death toll unclear...<color=#D94742>\nSerious damage!</color>
+またですか...？\n今月に入って何回目ですか？=Again...?\nHow many times now since the start of the month?
+判明してるもので3回です...。=So far, it's the third time...
+<color\=#D94742>まったり村</color>には我々、<color\=#D94742>光の教団</color>の兵士が\n駐在していたはずですが、彼らは？=<color=#D94742>Relaxed Village</color> should have been under the protection of\n<color=#D94742>Cult of Light</color>'s soldiers, but what happened to them?
+そのほとんどの行方が...。=Most of them are still missing...
 ...そうですか...。=...Is that so....
-先ほど<color\=#D94742>まったり村</color>が襲撃されたとの\n報告がありました！！=There was a report <color\=#D94742>just a bit ago</color> that <color\=#D94742>Relaxed village</color> was attacked!!
-行方不明者多数、死者数不明...。\n甚大な被害です！=Many missing people, the number of deaths unknown...\nIt's serious damage!
-またですか...？\n今月に入って何回目ですか？=Again...?\nHow many times is it this month?
-判明してるもので3回です...。=It's confirmed 3 times...
-我々、<color\=#D94742>光の教団</color>は闇を斬りはらい、\nモンスターを討伐し、\n魔から人々を守る存在です。=We,<color\=#D94742>Cult of Light</color>, slash through the darkness, defeat monsters, and protect people from demons.
-<color\=#D94742>まったり村</color>には我々、<color\=#D94742>光の教団</color>の兵士が\n駐在していたはずですが、彼らは？=For <color\=#D94742>Relaxed village</color>, we, the <color\=#D94742>Cult of Light</color> though we must have soldiers stationed, how about them?
-そのほとんどの行方が...。=Most of their whereabouts are...
-しかし魔王は、神出鬼没...。\n普段どこにいて、どこに現れるのかも\n判明していないのでは...。=However the Demon King, a phantom...\nIt's just not clear where it usually is and where it will appear...
-そのことについてもう一つ報告があります。=I have another report about that.
-先ほど、我々の調査隊から、\n魔王の根城を特定したとの報告がありました。=Earlier, from our investigation team, there was a report that the Demon King's headquarters was identified.
-場所は先ほど被害にあった<color\=#D94742>まったり村</color>の\n近くの洞窟。=The area was damaged earlier, the cave near <color\=#D94742>Relaxed village</color>.
-確かですか？=Is it trustworthy?
-数日にわたり、魔王と思われる者とその\n取り巻きが定期的に出入りしているとの\n目撃情報です。=Over the course of several days, there are eyewitness reports people believed to be followers of the Demon King were regularly coming and going.
-魔王討伐隊...！=Demon King Subjugation Team...!
-しかし洞窟とは...。\nおとぎ話とかでは魔王といえば、\n城かなんかに住んでそうなものですが。=And the cave...\nIf it's a Fairytale with the Demon King, it's like living in a Castle or something.
-なるほど...。=I see....
-いいえ。...確かに私も初め聞いた時は、\n名前負けしている身の程知らずの\n小童であるとタカをくくっていました。=No.\n...Maybe when I first heard about it, I took the boy's name too little.
-奴はどうやら自分のことを、<color\=#D94742>魔王</color>と名乗っているらしいです。\n生意気な。そんな大層な肩書き。=Apparently he's about himself<color\=#D94742>Demon King</color>Apparently he calls himself.\nCheeky.\nSuch a big title.
-これより<color\=#D94742>光の教団</color>は<color\=#D94742>魔王討伐隊</color>\nを結成します！=More than this, let's form the <color\=#D94742>Cult of Light</color> <color\=#D94742>Demon Subjugation Team!</color>
-...加えて今回は教団の外部の方にも\n協力を仰ぎましょう！=...In addition, this time we should ask for the cooperation of people outside the cult!
-外部ですか？=Is it outside?
-今回の一連の騒動もそうです。対魔組織たる\n我々が、魔王を討伐する必要があります。\nそして民達の安心を取り戻さなくては。=This is the same with the series of incidents this time.\nWe, the anti-magic organization, need to defeat the Demon King.\nAnd we must regain the security of our people.
-は...はい！=Y...Yes!
-そして<color\=#D94742>まったり村</color>他、被害にあった地域の\n位置関係からも合理的な場所に位置して\nいます。確実性は高いと思われます=and<color\=#D94742>Relaxed village</color>It is also located in a reasonable location due to the location of the affected area.\nIt seems to be highly certain
-えぇ、敵は強大です。 念を入れすぎるという\nことはありません。我々のメンバーだけでは\n力及ばずということも考えられます。=Yes, the enemy is powerful.\nIt's not too much to be careful about.\nIt is also possible that our members alone will not be able to overcome their strength.
-報酬も弾みましょう。\n今すぐ各地に<color\=#D94742>魔王討伐隊</color>の募集を\n公布してください！=Let's boost your rewards too.\nNow in various places<color\=#D94742>Demon King Defeat Team</color>Recruitment for\nPlease promulgate it!
-<color\=#D94742>光の教団</color>が<color\=#D94742>魔王討伐隊</color>のメンバーを\n募集しているらしいよ。=<color\=#D94742>Cult of Light</color>but<color\=#D94742>Demon King Defeat Team</color>Members of\nApparently they are looking for it.
+少し前に突如現れ、我が物顔で\n各地を荒らしまわっている不届き者...。=A bit before, it suddenly appeared mysteriously and was raising havoc everywhere before us...
 奴はどうやら自分のことを、<color\=#D94742>魔王</color>と名乗っているらしいです。=Apparently he's about himself<color\=#D94742>Demon King</color>Apparently he calls himself.
-いいえ=No
-いいえ。=No.
-どうやらその名に恥じぬ強力な力を\n持っているようです。=Apparently, a powerful power that is unabashed by its name\nIt seems to have it.
+いいえ。...確かに私も初め聞いた時は、\n名前負けしている身の程知らずの\n小童であるとタカをくくっていました。=No. Indeed, when I first heard of it\nI assumed I was an inexperienced and presumptuous individual whose reputation did not match their abilities.
+しかしその認識は誤りでした。\nその被害がもう看過できないほど\nになっています。=But that perception was wrong.\nThe damage has now reached a point where it cannot be overlooked anymore.
+なので我々も畏怖の念を込めて\n<color%3D#D94742>魔王</color>と呼称しましょう。=So in deference to our fears, let's respectfully refer to it as the <color=#D94742>Demon King</color>.
+どうやらその名に恥じぬ強力な力を\n持っているようです。このままでは世は\n恐怖に支配されてしまうでしょう。=It seems it possesses a power as strong as their name suggests.\nIf this continues, the world will be dominated by fear.
+我々、<color\=#D94742>光の教団</color>は闇を斬りはらい、\nモンスターを討伐し、\n魔から人々を守る存在です。=We, the <color=red>Cult of Light</color>\ncut through darkness and defeat monsters to protect people from evil.
 今回の一連の騒動もそうです。対魔組織たる\n我々が、魔王を討伐する必要があります。=This is the same with the series of incidents this time.\nIt's an anti-magic organization\nWe need to defeat the Demon King.
-そして<color\=#D94742>まったり村</color>他、被害にあった地域の\n位置関係からも合理的な場所に位置して\nいます。=and<color\=#D94742>Relaxed village</color>Other affected areas\nIt is located in a reasonable location, too.\nI'm here.
-身を隠すには最適な場所かもしれませんね。=It might be the perfect place to hide.
-光の教団の選りすぐりの者達を集めて\nください。=Gather the best of the Cult of Light\nplease.
-えぇ、敵は強大です。 =Eeh, the enemy is powerful. 
+しかし魔王は、神出鬼没...。\n普段どこにいて、どこに現れるのかも\n判明していないのでは...。=However, the Demon King is elusive...\nIt's unclear where he usually resides or appears.
+そのことについてもう一つ報告があります。=There's an additional report on that matter.
+先ほど、我々の調査隊から、\n魔王の根城を特定したとの報告がありました。=﻿Earlier, our investigative team reported that the Demon King's stronghold has been identified.
+場所は先ほど被害にあった<color\=#D94742>まったり村</color>の\n近くの洞窟。=The location is near the cave of <color=#D94742>Relaxed Village</color>, which was attacked earlier.
+確かですか？=Is it trustworthy?
+数日にわたり、魔王と思われる者とその\n取り巻きが定期的に出入りしているとの\n目撃情報です。=Over several days, the person believed to be the Demon King and their associates have been observed entering and exiting regularly.
+そして<color\=#D94742>まったり村</color>他、被害にあった地域の\n位置関係からも合理的な場所に位置して\nいます。確実性は高いと思われます=And <color=#D94742>Relaxed Village</color>, along with other affected areas\nis located in a reasonable place due to the location of the affected area.\nIt seems highly certain.
+なるほど...。=I see....
+しかし洞窟とは...。\nおとぎ話とかでは魔王といえば、\n城かなんかに住んでそうなものですが。=But caves...\nIn fairy tales, the Demon King is supposed to live in castles or something like that.
+身を隠すには最適な場所かもしれませんね。\nそうとわかれば話は早いです。=Perhaps it may be a perfect place to hide oneself.\nOnce we know that, things will move quickly.
+これより<color\=#D94742>光の教団</color>は<color\=#D94742>魔王討伐隊</color>\nを結成します！=From now on, <color=#D94742>Cult of Light</color> will form the <color=#D94742>Demon King Extermination Squad</color>.
+魔王討伐隊...！=Demon King Extermination Squad...！
+光の教団の選りすぐりの者達を集めて\nください。そのもので討伐隊を結成し、\n先の洞窟を攻め入るのです。=Please gather your finest warriors from the Cult of Light.\nUse them to form a subjugation squad, then lead an assault on the cave ahead.
+...加えて今回は教団の外部の方にも\n協力を仰ぎましょう！=Additionally, this time we should also\nseek cooperation from outsiders of the cult!
+外部ですか？=Outsiders?
+えぇ、敵は強大です。 =Yeah, the enemy is strong.
+えぇ、敵は強大です。 念を入れすぎるという\nことはありません。我々のメンバーだけでは\n力及ばずということも考えられます。=Yeah, the enemy is strong.\nIt's not about overcomplicating things.\nIf it's just our team, we might not be enough.
 我々のできる限りの事を尽くして、より強固で\n完璧な討伐隊を結成しましょう！=Do everything we can to be stronger\nLet's form the perfect extermination squad!
-報酬も弾みましょう。=Let's boost your rewards too.
-へぇ〜...。<color\=#D94742>魔王</color>ってあれでしょ？=Heeh~...<color\=#D94742>Demon King</color>That's right, right?
-へぇ〜...。<color\=#D94742>魔王</color>ってあれでしょ？\n最近各地で暴れてるやばい奴。=Heeh~...<color\=#D94742>Demon King</color>That's right, right?\nA dangerous guy who's been raging around everywhere lately.
-とうとう本腰入れて討伐が開始されるのか。\n奴らも年貢の納め時だな。=Will the defeat finally begin seriously?\nIt's time for them to pay their annual tax.
-なになに？魔王討伐隊！？=What, what?\nDemon King Defeat Team!\n?
-報酬は参加者一人につき<color\=#D94742>キャンディ</color>20個だって！=Rewards per participant<color\=#D94742>candy</color>There are 20!
-20個も！？=20 too!\n?
-ふ...ワガハイは参加するぞ...。\nちょうどひと暴れしたいと思っていたところだ。=Hm...I will join...\nI was just trying to go on a rampage.
+報酬も弾みましょう。\n今すぐ各地に<color\=#D94742>魔王討伐隊</color>の募集を\n公布してください！=Let's also offer rewards.\nImmediately, recruit members of the <color=#D94742>Demon King Subjugation Squad</color> across all regions!
+は...はい！=Y...Yes!
+なになに？どうしたの？=What?\nWhat's going on?
+<color\=#D94742>光の教団</color>が<color\=#D94742>魔王討伐隊</color>のメンバーを\n募集しているらしいよ。=It seems ﻿the <color=#D94742>Cult of Light</color> is recruiting members for its <color=#D94742>Demon King Subjugation Squad</color>.
+へぇ〜...。<color\=#D94742>魔王</color>ってあれでしょ？=Hmm... that's the <color=#D94742>Demon King</color>, right?
+へぇ〜...。<color\=#D94742>魔王</color>ってあれでしょ？\n最近各地で暴れてるやばい奴。=Hmm... that's the <color\=#D94742>Demon King</color>, right?\nThe one causing chaos everywhere recently?
+とうとう本腰入れて討伐が開始されるのか。\n奴らも年貢の納め時だな。=They've finally decided to fully commit and start the extermination campaign?\nIt's about time those monsters also faced their day of reckoning.
+なになに？魔王討伐隊！？=Whaat?\nDemon King Subjugation Squad!?
+報酬は参加者一人につき<color\=#D94742>キャンディ</color>20個だって！=Yeah, 20 pieces of Candy per participant as a prize!
+20個も！？=And 20!?
+ふ...ワガハイは参加するぞ...。\nちょうどひと暴れしたいと思っていたところだ。=Alright, I'm in.\nJust when I was thinking about causing a bit of a stir.
 私も参加するわ...！=I'll join too...!
-でも魔王って...。=But the "Demon King"...
-でも魔王って...。\nめちゃくちゃ危険な奴じゃないのか？=But the "Demon King"...\nIsn't it a really dangerous guy?
-ふふ...。そう、生半可な者では命の危険が伴う\nだろう。=n/a....\nYes, half-hearted people are at risk of life\nIt must be.
-ふふ...。そう、生半可な者では命の危険が伴う\nだろう。今回はワガハイたちに任せておけ...。=n/a....\nYes, half-hearted people are at risk of life\nIt must be.\nLeave it to Wagahai and the others this time...
+でも魔王って...。=But isn't the "Demon King"...
+でも魔王って...。\nめちゃくちゃ危険な奴じゃないのか？=But isn’t the "Demon King"...\ninsanely dangerous?
+ふふ...。そう、生半可な者では命の危険が伴う\nだろう。=Heehee...Well, for someone inexperienced or unprepared, this could be dangerous.
+ふふ...。そう、生半可な者では命の危険が伴う\nだろう。今回はワガハイたちに任せておけ...。=Heehee...Well, for someone inexperienced or unprepared, this could be dangerous.\nI guess it's okay to leave it to us...
 光の教団がこんなに大規模な募集をかけている\nということは相当の難敵と見たわ。=The Cult of Light is making such a large recruitment\nThat means I saw him as a pretty tough enemy.
-光の教団がこんなに大規模な募集をかけている\nということは相当の難敵と見たわ。\n久しぶりに腕がなるわね。=The Cult of Light is making such a large recruitment\nThat means I saw him as a pretty tough enemy.\nIt's been a while since I've had my arms.
-モンスターの退治組織-<color\=#D94742>光の教団</color>-=Monster Subjugation Organization-<color\=#D94742>Cult of Light</color>-
-モンスターの退治組織-<color\=#D94742>光の教団</color>-\nそれが魔王討伐隊を大々的に募集したことはすぐに\n話題になった。=Monster Extermination Organization-<color\=#D94742>Cult of Light</color>-\nIt was soon enough that the large-scale recruitment of the Demon King Extermination Team\nIt became a hot topic.
-ある者はキャンディのため、ある者は名誉のため、\nある者は飽くなき闘争心を満たすため、=Some are for candy, others for honor,\nSome people will satisfy their insatiable fighting spirit,
-ある者はキャンディのため、ある者は名誉のため、\nある者は飽くなき闘争心を満たすため、\n魔王討伐隊へ志願する者はあとを絶たなかった。=Some are for candy, others for honor,\nSome people will satisfy their insatiable fighting spirit,\nThere were no more people volunteering to join the Demon King's defeating squad.
-こうして各地の腕利きの戦士たちが集結し、\n魔王討伐のための最強の討伐隊が\n結成されようとしていた！=In this way, skilled warriors from all over the country gathered together,\nThe strongest defeating squad to defeat the Demon King\nIt was about to be formed!
+光の教団がこんなに大規模な募集をかけている\nということは相当の難敵と見たわ。\n久しぶりに腕がなるわね。=They're recruiting on an unprecedented scale, which shows they must be facing some serious opposition.\nIt feels like it's been years since I last needed to get back into action.
+モンスターの退治組織-<color\=#D94742>光の教団</color>-=Monster Subjugation Squad-<color\=#D94742>Cult of Light</color>-
+モンスターの退治組織-<color\=#D94742>光の教団</color>-\nそれが魔王討伐隊を大々的に募集したことはすぐに\n話題になった。=Monster Extermination Organization-<color\=#D94742>Cult of Light</color>-\nIt was soon enough that the large-scale recruitment of the Demon King Subjugation Squad
+quickly gained attention.
+ある者はキャンディのため、ある者は名誉のため、\nある者は飽くなき闘争心を満たすため、=Some seek candy, others honor; some driven by an insatiable competitive spirit.
+ある者はキャンディのため、ある者は名誉のため、\nある者は飽くなき闘争心を満たすため、\n魔王討伐隊へ志願する者はあとを絶たなかった。=Some seek candy, others honor; some driven by an insatiable competitive spirit.\nVolunteers for the Demon King Subjugation Squad never stopped coming forward.
+こうして各地の腕利きの戦士たちが集結し、\n魔王討伐のための最強の討伐隊が\n結成されようとしていた！=This way, skilled warriors from all over gathered together, and the strongest for the Subjugation Squad of the Demon King's subjugation was about to be formed!
 <color\=#D94742>ミルラ</color>さん、お迎えに参りました。=<color\=#D94742>Ms. Mirula, </color>I came to pick you up.
 わざわざお迎えに来てくれたの？\nご丁寧なことね。=Did you bother to come and pick you up?\nYou're polite.
 ミルラさんは特別ですから。=Because Ms. Mirula is special.
@@ -1559,7 +1557,7 @@
 ぎゃあああああああぁぁ！！\n死ぬううううう！！=Aaaaahhh!\n!\nI'm gonna die!\n!
 何だったんにゃ今の！=What was it now!
 さぁ...。=Now...
-さぁ...。物質とかになんか邪悪な魂が宿って、\nモンスターになることがあるって\n聞いたことがある。=Now...\nThere is a kind of evil spirit in the matter,\nモンスターになることがあるって\n聞いたことがある。
+さぁ...。モンスターになることがあるって\nモンスターになることがあるって\n聞いたことがある。=Now...\nThere is a kind of evil spirit in the matter,\nモンスターになることがあるって\n聞いたことがある。
 知らんけど。=I don't know though.
 危険すぎやしないかにゃ...。=It's not too dangerous...
 私も初めて体験した。=This was my first time trying it.
@@ -3413,7 +3411,6 @@ MP回復 5=MP recovery 5
 <color%3D#D94742>まったり村</color>には我々、<color%3D#D94742>光の教団</color>の兵士が\n駐在していたはずですが、彼らは？=<color%3D#D94742>Relaxed village</color>In us,<color%3D#D94742>Cult of Light</color>There must have been soldiers stationed there, but what about them?
 奴はどうやら自分のことを、<color%3D#D94742>魔王</color>と名乗っているらしいです。=Apparently he's about himself<color%3D#D94742>Demon King</color>Apparently he calls himself.
 奴はどうやら自分のことを、<color%3D#D94742>魔王</color>と名乗っているらしいです。\n生意気な。そんな大層な肩書き。=Apparently he's about himself<color%3D#D94742>Demon King</color>Apparently he calls himself.\nCheeky.\nSuch a big title.
-なので我々も畏怖の念を込めて\n<color%3D#D94742>魔王</color>と呼称しましょう。=So we are also in awe\n<color%3D#D94742>Demon King</color>Let's call it.
 我々、<color%3D#D94742>光の教団</color>は闇を斬りはらい、\nモンスターを討伐し、\n魔から人々を守る存在です。=we,<color%3D#D94742>Cult of Light</color>is an entity that slashes through the darkness, defeats monsters, and protects people from the demons.
 場所は先ほど被害にあった<color%3D#D94742>まったり村</color>の\n近くの洞窟。=The location was damaged earlier<color%3D#D94742>Relaxed village</color>of\nA nearby cave.
 そして<color%3D#D94742>まったり村</color>他、被害にあった地域の\n位置関係からも合理的な場所に位置して\nいます。=and<color%3D#D94742>Relaxed village</color>It is also located in a reasonable location due to the location of the affected area.
