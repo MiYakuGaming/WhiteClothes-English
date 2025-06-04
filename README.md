@@ -41,11 +41,17 @@ If you want more information about the Translation, feel free to look at the con
 
 # **Installing the Translation on Steam**
 In order to play this game on Steam, you need to install the only Japanese release on Steam and XUnity Auto Translator and a Loader of your choice directly in the Game's installation folder.  
-This project uses MelonLoader 0.5.7 because it's the only version that works on Windows, but you can use whatever works for you.  
+This project uses MelonLoader 0.5.7 and the MelonLoader plugin 5.0.0 because it's the only version that works on Windows, but you can use whatever works for you.
+If you use any other version, it will not work.
 https://github.com/bbepis/XUnity.AutoTranslator  
 WhiteClothes is only available on Windows and supports Linux via Proton experimental from my testing without Translation normally but the Translation hack does not work in Linux at all.  
 I use Linux Mint Cinnamon primarily for editing the main Translation file and testing in Windows, but currently, Games built with IL2CPP are not supported on Linux nor will it work.  
 When there is an update that allows IL2CPP to work on Linux, I will detail that in the future.  
+
+# Hack Bugs and Problems
+There are going to be problems with the Translation Hack.  
+If something isn't working right, you want to open your Config file found in this project and modify yes/no depending on what you want to do.  
+If you are playing normally, you do not need to use more advanced features, a new Config file will be uploaded later on to prevent this.
 
 # **I don't know Japanese, how can I help with this Translation?**
 You easily help in many ways without knowing Japanese by following this link:  
@@ -64,7 +70,8 @@ Thanks to your generosity and support, I have received some Donations, so if you
 https://ko-fi.com/miyakut  
 
 # **AI Disclosure**
-I use a Locally Installed Japanese AI to assist me with English writing because I am a terrible writer, but I ensure every line matches the original without sacrifice and remains 1:1 with the developer's original idea and intent.  
+WhiteClothes First uses AI for created assets and artwork to some degree, asset Translation will also use AI, so if you do not like nor agree with that, feel free to play something else.  
+I use a Locally Installed Japanese AI to assist me with English writing for the Translation because I am a terrible writer, but I ensure every line matches the original without sacrifice and remains 1:1 with the developer's original idea and intent.  
 
 # **WhiteClothes on Steam:**
 https://store.steampowered.com/app/1495940/_/
