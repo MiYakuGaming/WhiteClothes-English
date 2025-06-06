@@ -36,6 +36,7 @@ This initial release lets players progress halfway through the story. Character 
 Remaining content will be released via updates.  
 
 # **Translation**
+![WhiteClothes Eng Hack ScreenS 001](https://github.com/user-attachments/assets/d89d6f36-53e4-4b91-b3f8-f66849c7baf9)  
 WhiteClothes is created and developed by MokomuGame, and the developer is aware and supportive of this Translation.  
 This is an Uncensored Translation Hack of WhiteClothes and is currently being Translated by 未訳・MiYaku Gaming.  
 If you want more information about the Translation, feel free to look at the contents of this GitHub page, it will be updated with Commits as I make Translation updates.  
