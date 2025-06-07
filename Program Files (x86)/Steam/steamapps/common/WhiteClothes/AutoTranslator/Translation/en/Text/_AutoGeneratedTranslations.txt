@@ -79,12 +79,12 @@ quickly gained attention.
 うぅ...。=Uu...
 お姉ちゃん！=Big Sister!
 もう行くのか？=So you're going?
-<color\=#D94742>ミルネ</color>。行ってくるわね。=<color\=#D94742>Milne</color>.\nI'll come back.
+<color\=#D94742>ミルネ</color>。行ってくるわね。=<color\=#D94742>Milne</color>, you know I'll come back.
 そうか、気をつけてな。=I see, be careful.
-だが今回の敵はかなり厄介な奴らしい\nじゃないか。大丈夫なのか？=But doesn't the enemy seem to have quite troublesome this time?\nIs that okay?
+だが今回の敵はかなり厄介な奴らしい\nじゃないか。大丈夫なのか？=But doesn't the enemy seem to be quite troublesome this time?\nIs that okay?
 ダイジョーブダイジョーブ！！=It’s okay, I'll be fine!!
 ダイジョーブダイジョーブ！！\n私を誰だと思ってるの？ \nあの百戦錬磨！絶対無敵のミルラ様よ！=It’s okay, I'll be fine!\nWho do you think I am?\nIt's the veteran pro!\nThe absolutely unbeatable Mirula!
-今回もチャチャッと終わらせて、\nすぐ帰ってくるわね！=I'll also end it quickly this time and come back right away!
+今回もチャチャッと終わらせて、\nすぐ帰ってくるわね！=And I'll end it quickly this time and come back right away!
 あまり調子にのるなよ。=Don't get too carried away now.
 あなたこそちゃんとお留守番できる？\nお姉ちゃんがいないからって泣いちゃダメよ。=Can you really manage to stay home alone?\nDon’t cry just because your older sister isn’t around.
 もう子供じゃないぞ！=I'm not a child anymore!
@@ -123,52 +123,34 @@ quickly gained attention.
 数日後...。=Several days later...
 うぅん...。=Uun...
 もう朝か。=Already morning huh.
-もう朝か。\nう〜ん、よく寝たな...。=Already morning huh.\nU~n, I slept so well...
-彼女の名前は<color\=#D94742>ミルネ</color>。<color\=#D94742>光の教団</color>から離れた\n辺境の村、<color\=#D94742>おねんね村</color>に住む勇敢な女の子。=Her name is<color\=#D94742>Milne</color>。<color\=#D94742>Cult of Light</color>I've got away from\nA remote village,<color\=#D94742>Onnane Village</color>A brave girl who lives in the area.
-とっても強い姉のようになるべく日々、\nモンスター退治などの依頼を行って暮らしている。=Every day, I want to become like a very strong sister\nHe lives with requests to kill monsters and other things.
+もう朝か。\nう〜ん、よく寝たな...。=Already morning huh.\nUun, I slept so well...
+彼女の名前は<color\=#D94742>ミルネ</color>。<color\=#D94742>光の教団</color>から離れた\n辺境の村、<color\=#D94742>おねんね村</color>に住む勇敢な女の子。=Her name is <color=#D94742>Milne</color>, a brave girl living in the remote village of <color=#D94742>Sleepy Village</color>, far away from the <color=#D94742>Cult of Light</color>.
+とっても強い姉のようになるべく日々、\nモンスター退治などの依頼を行って暮らしている。=To become as strong as my older sister, I live daily by taking on monster exterminations and other requests.
 さて...。=Well...
-さて...。寝るか。=Well...\nWill you sleep?
-ミルネさん！ミルネさん！\n大変です！！緊急事態です！起きてください！=Milne!\nMilne!\nIt's difficult!\n!\nIt's an emergency!\nWake up!
-まだ寝てますか！？早く起きてください！\nミルネさん！！いないんですか？ =Are you still sleeping?\n?\nPlease wake up early!\nMilne!\n!\nAre you there? 
-まだ寝てますか！？早く起きてください！\nミルネさん！！いないんですか？ \nミルネさ〜〜〜ん！=Are you still sleeping?\n?\nPlease wake up early!\nMilne!\n!\nAre you there?\nMilne-san!
-...。\n......。\n.........。うるさいな...。=....\n....\n....\nIt's noisy...
-こら〜！ね〜ちゃん！=He~y!\nBi~g-Sis!
-こら〜！ね〜ちゃん！\nお〜〜〜き〜〜〜ろ〜〜〜〜！！！=He~y!\nBi~g-Sis!\nWa~~~ke U~~~~p!!
-外でねーちゃん呼んでるぞ〜！\n仕事だぞ〜〜！=I'm calling my sister outside!\nIt's work!
-痛い痛い！！！=It hurts!\n!\n!
-なんだよ...痛いな！=What is it...it hurts!
-さっきから外でお姉ちゃんを呼んでるんだよ！=I've been calling my sister outside for a while now!
-さっきから外でお姉ちゃんを呼んでるんだよ！\nいつまで寝てるんだよ！=I've been calling my sister outside for a while now!\nHow long will you be sleeping?
-ね〜ちゃん寝坊だぞ！=You're oversleeping!
-そんなのほっとけばいいだろ！=You should just leave that alone!
-そういうわけにはいかないだろ！\nちゃんとしろよ！=That's not possible!\nDo it properly!
-わかったよ...起きるよ。まったく。=I understand... I'm going to wake up.\nTotally.
-わかったよ...起きるよ。まったく。\nまだ寝足りないな...。まだ11時じゃないか...。=I understand... I'm going to wake up.\nTotally.\nI still don't have enough sleep...\nIt's still 11 o'clock...
-気持ち良さそうな、ベッドがある。=There's a bed that looks good.
-少し休んでこうかな...？=Maybe I'll take a break for a while...?
-各地に配置されたベッドを使用することで、<color\=#D94742>HP</color>/<color\=#D94742>MP</color>を完全に回復することができる。\n\nまた<color\=#D94742>セーブ</color>も行うことができる。\n\n見かけたらこまめに使用しよう！=By using beds located everywhere,<color\=#D94742>HP</color>/<color\=#D94742>MP</color>can be fully recovered.\n\nAlso<color\=#D94742>save</color>can also be done.\n\nIf you see it, use it frequently!
-休む=Rest
-やめておく=Stop it
-<color\=#D94742>ミルル</color>と<color\=#D94742>ミルラ</color>お姉ちゃんの共用のベッドだ。\n今はお姉ちゃんがいないので、ミルルが一人で\n使ってる。=<color\=#D94742>Milulu</color> and <color\=#D94742>Mirula</color>It's my sister's shared bed.\nI don't have a big sister now, so Milulu is alone\nI'm using it.
-外で人が呼んでるんだよ！ね〜ちゃん寝坊だぞ！=People are calling outside!\nYou're oversleeping!
-外で人が呼んでるんだよ！ね〜ちゃん寝坊だぞ！\nきっとモンスター退治の依頼だよ。=People are calling outside!\nYou're oversleeping!\nIt's surely a request to kill monsters.
+さて...。寝るか。=Well...\nSleep?
+ミルネさん！ミルネさん！\n大変です！！緊急事態です！起きてください！=Milne! Milne!\nThere's trouble!!\nIt's an emergency!\nPlease wake up!
+まだ寝てますか！？早く起きてください！\nミルネさん！！いないんですか？ =Are you still sleeping!? Please wake up immediately!\nMilne!!\nAre you there? 
+まだ寝てますか！？早く起きてください！\nミルネさん！！いないんですか？ \nミルネさ〜〜〜ん！=Are you still sleeping!? Please wake up immediately!\nMilne!!\nAre you there?\nMiiiiiiss Milne!
+...。\n......。\n.........。うるさいな...。=....\n.......\n..........\nBe quiet...
+こら〜！ね〜ちゃん！=Heeey!\nBiiig Sis!
+こら〜！ね〜ちゃん！\nお〜〜〜き〜〜〜ろ〜〜〜〜！！！=Heeey!\nBiiig Sis!\nWaaaakeeeeee Uuuuuup!!!
+外でねーちゃん呼んでるぞ〜！\n仕事だぞ〜〜！=Iii'm calling you from outside big sis!\nIiiit's a job!
+痛い痛い！！！=Ow, ow!!!
+なんだよ...痛いな！=Just what is it...that hurts!
+さっきから外でお姉ちゃんを呼んでるんだよ！=Big sister, I've been calling you from outside since then!
+さっきから外でお姉ちゃんを呼んでるんだよ！\nいつまで寝てるんだよ！=Big sister, I've been calling you from outside since then!\nWhy are you still sleeping!
+ね〜ちゃん寝坊だぞ！=Big sis overslept!
+そんなのほっとけばいいだろ！=Just leave it alone!
+そういうわけにはいかないだろ！\nちゃんとしろよ！=I can't do that!\nSnap out of it!
+わかったよ...起きるよ。まったく。=I get it... I'm going to wake up.\nTotally.
+わかったよ...起きるよ。まったく。\nまだ寝足りないな...。まだ11時じゃないか...。=Okay I get it... I'm getting up.\nUgh.\nI'm still tired, and it's only 11 a.m....
+気持ち良さそうな、ベッドがある。=There’s a comfortable-looking bed.
+少し休んでこうかな...？=How about taking a short break...?
+各地に配置されたベッドを使用することで、<color\=#D94742>HP</color>/<color\=#D94742>MP</color>を完全に回復することができる。\n\nまた<color\=#D94742>セーブ</color>も行うことができる。\n\n見かけたらこまめに使用しよう！=By using the beds placed in various locations, you can completely restore your <color\=#D94742>HP</color>/<color\=#D94742>MP</color>.\nAdditionally, you can also <color\=#D94742>save</color> your progress.\nMake sure to use them whenever you see one!
+<color\=#D94742>ミルル</color>と<color\=#D94742>ミルラ</color>お姉ちゃんの共用のベッドだ。\n今はお姉ちゃんがいないので、ミルルが一人で\n使ってる。=<color=#D94742>Milulu</color> shares a bed with her older sister <color=#D94742>Mirula</color>.\nRight now, since Mirula isn't here, only Milulu is using this bed.
+外で人が呼んでるんだよ！ね〜ちゃん寝坊だぞ！=People are calling from outside!\nYou're so oversleeping big sis!
+外で人が呼んでるんだよ！ね〜ちゃん寝坊だぞ！\nきっとモンスター退治の依頼だよ。=Someone is calling you from outside!\nBig siiis overslept again!\nIt's probably a monster extermination job!
 しっかりやれよ！=Do it well!
-攻撃 <color\=#D94742>9</color> 魔攻 <color\=#D94742>2</color>\n子供の頃、姉と喧嘩して奪い取った剣。=attack <color\=#D94742>9</color> The Demon Attack <color\=#D94742>2</color>\nWhen I was a child, I fought with my sister and took the sword.
-剣=sword
-ピンク色の剣=Pink sword
-防御 <color\=#D94742>3</color> 魔防 <color\=#D94742>2</color> 意志 <color\=#D94742>2</color>\nお気に入りの白いスカート。=defense <color\=#D94742>3</color> Demon defense <color\=#D94742>2</color> will <color\=#D94742>2</color>\nMy favorite white skirt.
-白いスカート=White skirt
-重鎧=Heavy Armor
-アクセ=Accessory
-意志 <color\=#D94742>1</color>\nお気に入りのマフラー。=will <color\=#D94742>1</color>\nMy favorite scarf.
-白いマフラー=White muffler
-ハートショット=Heart shot
-単体=Single
-<color\=#D94742>魔法攻撃</color> <color\=#D94742>ハート</color>\nハートを放出して敵にぶつける。=<color\=#D94742>Magic Attack</color> <color\=#D94742>Heart</color>\nRelease a Heart and strike the enemy.
-0ターン=0 Turns
-<color\=#D94742>物理攻撃</color>\n無数の斬撃で大ダメージを与える。\n攻撃後に味方全体のHPを大きく回復する。=<color\=#D94742>Physical Attack</color>\nCounts great damage with countless slashes.\nHeals large HP of all allies after attacking.
-ミラクルエッジ=Miracle Edge
-<color\=#D94742>最大HP</color>を上昇させる。=<color\=#D94742>Maximum HP</color>raises.
 メニューの<color\=#D94742>パッシブ</color>から、キャラクターの固有能力を習得させることができる。\n\n習得には各地に散らばっている<color\=#D94742>スターキャンディ</color>を必要とする。=Menu's<color\=#D94742>passive</color>From this, you can acquire the unique abilities of the character.\n\nIt is scattered all over the place to learn<color\=#D94742>Star Candy</color>is required.
 初めは解放できるパッシブスキルは少ないけれど、<color\=#D94742>レベル</color>が上がると新しく覚えるぞ。\n\nまた使用したスターキャンディは、<color\=#D94742>還元していつでも振り直すことができる</color>。色々と試してみよう！=At first, there are few passive skills that can be released,<color\=#D94742>level</color>When it rises, you will learn a new one.\n\nThe star candy I used was<color\=#D94742>You can repurpose it and reshape it anytime</color>.\nLet's try out a variety!
 <color\=#D94742>防御</color>を上昇させる。=<color\=#D94742>defense</color>raises.
@@ -181,13 +163,8 @@ quickly gained attention.
 <color\=#D94742>意志</color>(状態異常・デバフにかかる確率の減少)を上昇させる。=<color\=#D94742>will</color>Increases (reduced probability of status abnormality and debuffing).
 <color\=#D94742>星</color>スキルの威力と速度を高める。=<color\=#D94742>Stars</color>Increases the power and speed of skills.
 <color\=#D94742>闇</color>耐性を上昇させる。=<color\=#D94742>darkness</color>Increases resistance.
-フリーファイト=Free fight
 一人で戦う。\n大幅に速度がアップする。=Fight alone.\nIt greatly increases the speed.
 草刈りに使用される鉤爪型の剣。\n<植物に特攻>=A claw-shaped sword used to mow the grass.\n<Special attack on plants>
-愛のジェムキャンディ=Love Gem Candy
-コンプ率：=Compute rate:
-0体=0 Figures
-発見した数：=Number found:
 ミルネさん！やっと起きた！=Milne!\nI finally woke up!
 ミルネさん！やっと起きた！\nいつまで寝てんすか！もう朝っすよ！=Milne!\nI finally woke up!\nHow long will you be sleeping?\nIt's already morning!
 お隣さんか、うるさいな...。=Your neighbor is so noisy...
