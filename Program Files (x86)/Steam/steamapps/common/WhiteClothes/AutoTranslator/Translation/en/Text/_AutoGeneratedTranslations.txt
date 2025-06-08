@@ -175,6 +175,17 @@ quickly gained attention.
 <color\=#D94742>東の畑のモンスター</color>の退治を請け負った。=I accepted defeating the <color\=#D94742>Monster in the Eastern Field</color>.
 なにやら緊急事態らしいけど...。\nま、気が向いたらでいっか。=Well, seems like there's an emergency...\nI suppose I'll give it a go.
 起きたばっかりだし村の散歩もしたい。=I just woke up and I feel like taking a stroll around the village.
+シュババババババ！=Shubabababababa!
+！？\nなんだ、どうした？=!?\nWha, what's wrong?
+忠告しにきました！\nこの先はモンスターが出ますよ！=I came to warn you!\nThere are monsters ahead!
+黒い影纏ってるシンボルがモンスターですからね！\n注意してくださいね！=A symbol covered in dark shadows is a monster, you know!\nPlease be careful!
+わかっている。\n私を誰だと思っている。=I know.\nWho do you think I am?
+まぁミルネパイセンなら楽勝だと思いますけどね！=Well I believe Senior Ms. Milne would handle it with ease!
+まぁミルネパイセンなら楽勝だと思いますけどね！\n念のためです！=Well I believe Senior Ms. Milne would handle it with ease!\nBut one can't be too certain.
+けど、無理は禁物っすよ！=But don't overdo it!
+けど、無理は禁物っすよ！\nきつかったら無理して戦闘しないで\n一度帰ってきてくださいね！=But don't overdo it!\nIf things get too tough, don't push yourself to fight—take a break!
+そうそう、この小屋では誰でも使用できる\n簡易ベッドがあるんすよ！=Ah yes, this cabin has a basic bed anyone can use!
+<color\=#D94742>セーブ</color>？とは何か知りませんが、\nそれもベッドで出来ますからね。=<color=#D94742>Save</color>?\nI don't know what that is, but it can also be done in bed.
 用事はもう済んだのか？\nしっかりやれよ！=Have you finished your business yet?\nDo it well!
 メニューの<color\=#D94742>パッシブ</color>から、キャラクターの固有能力を習得させることができる。\n\n習得には各地に散らばっている<color\=#D94742>スターキャンディ</color>を必要とする。=Menu's<color\=#D94742>passive</color>From this, you can acquire the unique abilities of the character.\n\nIt is scattered all over the place to learn<color\=#D94742>Star Candy</color>is required.
 初めは解放できるパッシブスキルは少ないけれど、<color\=#D94742>レベル</color>が上がると新しく覚えるぞ。\n\nまた使用したスターキャンディは、<color\=#D94742>還元していつでも振り直すことができる</color>。色々と試してみよう！=At first, there are few passive skills that can be released,<color\=#D94742>level</color>When it rises, you will learn a new one.\n\nThe star candy I used was<color\=#D94742>You can repurpose it and reshape it anytime</color>.\nLet's try out a variety!
@@ -583,17 +594,6 @@ quickly gained attention.
 これも日々の訓練の賜物だな。=That's also a result of daily training.
 <color\=#D94742>練習用カカシ</color>は<color\=#D94742>火</color>に弱いみたいだな。=<color\=#D94742>Practice Scarf</color>teeth<color\=#D94742>fire</color>It seems he's weak to.
 よし。さっさと次に行こう。=Yeah.\nGoing to the next one quickly.
-シュババババババ！=Shubabababababa!
-！？\nなんだ、どうした？=!?\nWhat, what's wrong?
-忠告しにきました！\nこの先はモンスターが出ますよ！=I've come to advise you!\nMonsters will come out just ahead!
-黒い影纏ってるシンボルがモンスターですからね！\n注意してくださいね！=Because the Symbol with a Black Shadow is a Monster!\nPlease be careful okay!
-わかっている。\n私を誰だと思っている。=I understand.\nWho do you think I am?
-まぁミルネパイセンなら楽勝だと思いますけどね！=Well, I think it would be a good win if it was Senior Milne!
-まぁミルネパイセンなら楽勝だと思いますけどね！\n念のためです！=Well, I think it would be a good win if it was Senior Milne!\nIt's for your life!
-けど、無理は禁物っすよ！=But, don't overdo it!
-けど、無理は禁物っすよ！\nきつかったら無理して戦闘しないで\n一度帰ってきてくださいね！=But, don't overdo it!\nIf you get hit, don't force yourself to fight\nPlease come back once okay!
-そうそう、この小屋では誰でも使用できる\n簡易ベッドがあるんすよ！=Ah yes, anyone can use it in this shed\nThere's a simple bed there!
-<color\=#D94742>セーブ</color>？とは何か知りませんが、\nそれもベッドで出来ますからね。=<color\=#D94742>save</color>?\nI don't know what that is\nbut that can also be done in bed.
 フィールドに徘徊している黄色い奴に触れたら<color\=#D94742>戦闘</color>が開始する。一定距離近づいたら追いかけてくるぞ。\n\n戦いたくなかったら避けても良いが、程よく戦い計画的な<color\=#D94742>レベルアップ</color>を！=When I touched a yellow guy wandering around the field<color\=#D94742>battle</color>begins.\nIf you get closer to a certain distance, you'll chase after it.\n\nIf you don't want to fight, you can avoid it, but it's just a good fight and plan.<color\=#D94742>Level up</color>of!
 休憩=Break
 休憩地点。\nベッドをご自由にお使いください。=Rest point.\nFeel free to use the bed.
