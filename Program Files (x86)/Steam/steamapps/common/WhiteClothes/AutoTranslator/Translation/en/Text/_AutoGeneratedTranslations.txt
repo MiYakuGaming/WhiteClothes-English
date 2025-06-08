@@ -151,6 +151,31 @@ quickly gained attention.
 外で人が呼んでるんだよ！ね〜ちゃん寝坊だぞ！=People are calling from outside!\nYou're so oversleeping big sis!
 外で人が呼んでるんだよ！ね〜ちゃん寝坊だぞ！\nきっとモンスター退治の依頼だよ。=Someone is calling you from outside!\nBig siiis overslept again!\nIt's probably a monster extermination job!
 しっかりやれよ！=Do it well!
+ミルネさん！やっと起きた！=Milne!\nYou finally woke up!
+ミルネさん！やっと起きた！\nいつまで寝てんすか！もう朝っすよ！=Milne! You finally woke up!\nHow long do you sleep! It's already morning!
+お隣さんか、うるさいな...。=So a neighbor, how annoying...
+お隣さんか、うるさいな...。\n一体なんなんだ。=So a neighbor, how annoying...\nWhaaat now?
+依頼ならまず、窓口を通してだな..。=If it's a job, I should go to the counter first.
+緊急事態なんすよぉ！=Iiit's an emergency!
+緊急事態なんすよぉ！\n<color\=#D94742>村の東の畑</color>がモンスターに荒らされてるんすよぉ！=Iiit's an emergency!\nThe <color=#D94742>Fields East of this Village</color> are being ruined by monsters!
+そんなことか...。=What's that supposed to mean?
+そんなこととは何だ！\n畑がダメになったら俺たち飢えちゃいますよ！=What's that supposed to mean?\nIf the fields get ruined, we’ll starve!
+ふむ...。=Hmm...
+それに、今までに見たことのないなんかやばい\n雰囲気出してるモンスターなんすよ！=Furthermore, it's kind of dangerous—this monster gives off a vibe we've never seen before.
+それに、今までに見たことのないなんかやばい\n雰囲気出してるモンスターなんすよ！\nミルネさんじゃないと絶対やばいって！=Furthermore, it's kind of dangerous—this monster gives off a vibe we've never seen before.\nIt's definitely dangerous without Ms. Milne!
+わかった。ただし安くないぞ。\n報酬は<color\=#D94742>キャンディ</color>3つだ。=Got it. But it's not cheap.\n<color\=#D94742>Reward</color> is 3 candies.
+<color\=#D94742>キャンディ</color>3つだって！？\nそりゃないっすよ、ミルネパイセン！=3 <color\=#D94742>Candy</color>!?\nNo way, Ms. Milne!
+<color\=#D94742>キャンディ</color>3つだって！？\nそりゃないっすよ、ミルネパイセン！\n1つが相場ってとこでしょ！=3 <color\=#D94742>Candies</color>!?\nNo way, Ms. Milne!\nThat’s the market price for one!
+特別料金だ。\n嫌なら一緒に心中しよう。=It's a special price.\nIf you're not interested, how about we call it quits?
+あ〜わかったよ！払うって！=Aaah, I get it! I'll pay!
+あ〜わかったよ！払うって！\n払うから退治してくださいよ。=Aaah, I get it! I'll pay!\nJust please get rid of it.
+そうこなくてはな。=That's exactly it!
+とにかく畑はここから<color\=#D94742>東</color>に行ったところです！\nお願いしますよ！ミルネさん！=But anyway, the fields start <color\=#D94742>east</color> from here.\nPlease! Ms. Milne!
+任せておけ。=Leave it to me.
+<color\=#D94742>東の畑のモンスター</color>の退治を請け負った。=I accepted defeating the <color\=#D94742>Monster in the Eastern Field</color>.
+なにやら緊急事態らしいけど...。\nま、気が向いたらでいっか。=Well, seems like there's an emergency...\nI suppose I'll give it a go.
+起きたばっかりだし村の散歩もしたい。=I just woke up and I feel like taking a stroll around the village.
+用事はもう済んだのか？\nしっかりやれよ！=Have you finished your business yet?\nDo it well!
 メニューの<color\=#D94742>パッシブ</color>から、キャラクターの固有能力を習得させることができる。\n\n習得には各地に散らばっている<color\=#D94742>スターキャンディ</color>を必要とする。=Menu's<color\=#D94742>passive</color>From this, you can acquire the unique abilities of the character.\n\nIt is scattered all over the place to learn<color\=#D94742>Star Candy</color>is required.
 初めは解放できるパッシブスキルは少ないけれど、<color\=#D94742>レベル</color>が上がると新しく覚えるぞ。\n\nまた使用したスターキャンディは、<color\=#D94742>還元していつでも振り直すことができる</color>。色々と試してみよう！=At first, there are few passive skills that can be released,<color\=#D94742>level</color>When it rises, you will learn a new one.\n\nThe star candy I used was<color\=#D94742>You can repurpose it and reshape it anytime</color>.\nLet's try out a variety!
 <color\=#D94742>防御</color>を上昇させる。=<color\=#D94742>defense</color>raises.
@@ -165,31 +190,6 @@ quickly gained attention.
 <color\=#D94742>闇</color>耐性を上昇させる。=<color\=#D94742>darkness</color>Increases resistance.
 一人で戦う。\n大幅に速度がアップする。=Fight alone.\nIt greatly increases the speed.
 草刈りに使用される鉤爪型の剣。\n<植物に特攻>=A claw-shaped sword used to mow the grass.\n<Special attack on plants>
-ミルネさん！やっと起きた！=Milne!\nI finally woke up!
-ミルネさん！やっと起きた！\nいつまで寝てんすか！もう朝っすよ！=Milne!\nI finally woke up!\nHow long will you be sleeping?\nIt's already morning!
-お隣さんか、うるさいな...。=Your neighbor is so noisy...
-お隣さんか、うるさいな...。\n一体なんなんだ。=Your neighbor is so noisy...\nWhat the hell is it?
-依頼ならまず、窓口を通してだな..。=If you have a request, first go through the counter...
-緊急事態なんすよぉ！=It's an emergency!
-緊急事態なんすよぉ！\n<color\=#D94742>村の東の畑</color>がモンスターに荒らされてるんすよぉ！=It's an emergency!\n<color\=#D94742>Fields in the east of the village</color>is being trolled by monsters!
-そんなことか...。=Is that what it is...
-そんなこととは何だ！\n畑がダメになったら俺たち飢えちゃいますよ！=What is that?\nIf the fields get damaged, we'll starve!
-ふむ...。=Hmm...
-それに、今までに見たことのないなんかやばい\n雰囲気出してるモンスターなんすよ！=Plus, it's something I've never seen before\nIt's a monster that gives off a vibe!
-それに、今までに見たことのないなんかやばい\n雰囲気出してるモンスターなんすよ！\nミルネさんじゃないと絶対やばいって！=Plus, it's something I've never seen before\nIt's a monster that gives off a vibe!\nIt's definitely dangerous unless you're Milne!
-わかった。ただし安くないぞ。\n報酬は<color\=#D94742>キャンディ</color>3つだ。=Understood.\nHowever, it's not cheap.\nThe reward is<color\=#D94742>candy</color>There are three.
-<color\=#D94742>キャンディ</color>3つだって！？\nそりゃないっすよ、ミルネパイセン！=<color\=#D94742>candy</color>There are three!\n?\nOf course, Mirne-san!
-<color\=#D94742>キャンディ</color>3つだって！？\nそりゃないっすよ、ミルネパイセン！\n1つが相場ってとこでしょ！=<color\=#D94742>candy</color>There are three!\n?\nOf course, Mirne-san!\nOne is the market price!
-特別料金だ。\n嫌なら一緒に心中しよう。=It's a special price.\nIf you don't like it, let's have a passion together.
-あ〜わかったよ！払うって！=Ah, I understand!\nPay!
-あ〜わかったよ！払うって！\n払うから退治してくださいよ。=Ah, I understand!\nPay!\nI'll pay so please get rid of it.
-そうこなくてはな。=I hope that's not the case.
-とにかく畑はここから<color\=#D94742>東</color>に行ったところです！\nお願いしますよ！ミルネさん！=Anyway, the fields start here<color\=#D94742>east</color>I just went to!\nPlease!\nMilne!
-任せておけ。=Leave it to me.
-<color\=#D94742>東の畑のモンスター</color>の退治を請け負った。=<color\=#D94742>Monster in the Eastern Field</color>He was undertaken to defeat him.
-なにやら緊急事態らしいけど...。\nま、気が向いたらでいっか。=Apparently it's a state of emergency...\nWell, if you feel like it, come on.
-起きたばっかりだし村の散歩もしたい。=I've just woken up and I want to take a walk in the village.
-用事はもう済んだのか？\nしっかりやれよ！=Have you finished your business yet?\nDo it well!
 ←おねんね商店街\n→畑=←Onene Shopping Street\n→ Field
 ぽなかしゅいた。=I was so moved.
 お夕飯のお支度、忙し忙し。=Getting ready for dinner is busy.
