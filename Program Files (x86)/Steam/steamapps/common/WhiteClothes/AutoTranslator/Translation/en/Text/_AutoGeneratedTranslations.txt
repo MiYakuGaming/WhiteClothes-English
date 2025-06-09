@@ -180,8 +180,8 @@ quickly gained attention.
 忠告しにきました！\nこの先はモンスターが出ますよ！=I came to warn you!\nThere are monsters ahead!
 黒い影纏ってるシンボルがモンスターですからね！\n注意してくださいね！=A symbol covered in dark shadows is a monster, you know!\nPlease be careful!
 わかっている。\n私を誰だと思っている。=I know.\nWho do you think I am?
-まぁミルネパイセンなら楽勝だと思いますけどね！=Well I believe Senior Ms. Milne would handle it with ease!
-まぁミルネパイセンなら楽勝だと思いますけどね！\n念のためです！=Well I believe Senior Ms. Milne would handle it with ease!\nBut one can't be too certain.
+まぁミルネパイセンなら楽勝だと思いますけどね！=Well I believe Senior Milne would handle it with ease!
+まぁミルネパイセンなら楽勝だと思いますけどね！\n念のためです！=Well I believe Senior Milne would handle it with ease!\nBut one can't be too certain.
 けど、無理は禁物っすよ！=But don't overdo it!
 けど、無理は禁物っすよ！\nきつかったら無理して戦闘しないで\n一度帰ってきてくださいね！=But don't overdo it!\nIf things get too tough, don't push yourself to fight—take a break!
 そうそう、この小屋では誰でも使用できる\n簡易ベッドがあるんすよ！=Ah yes, this cabin has a basic bed anyone can use!
